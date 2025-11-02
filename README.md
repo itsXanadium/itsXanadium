@@ -8,6 +8,8 @@ Passionate about **Backend Programming** and **Cybersecurity**.
 ---
 
 ##  Tech Stack that i use
+< img alt="React" src="https://img.shields.io/badge/React-610AFB?logo-reactalogoColor=white&style-for-the-badge"
+
 - **Programming Language:**  PHP, Python, GO.
 - **Framework**: Laravel, Flask, Fiber.
 - **DBMS:** NoSQL(Mongo), RDBS (MySql)/(PostgresSQL)
