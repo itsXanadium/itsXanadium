@@ -8,9 +8,19 @@ Passionate about **Backend Programming** and **Cybersecurity**.
 ---
 
 ##  Tech Stack that i use
-< img alt="React" src="https://img.shields.io/badge/React-610AFB?logo-reactalogoColor=white&style-for-the-badge"/>
+## 🛠️ Tech Stack
 
-- **Programming Language:**  PHP, Python, GO.
-- **Framework**: Laravel, Flask, Fiber.
-- **DBMS:** NoSQL(Mongo), RDBS (MySql)/(PostgresSQL)
+
+### Programming Languages
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+### Deplyoment Tool
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+### DB
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ---
