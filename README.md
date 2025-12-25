@@ -1,5 +1,5 @@
 # Xana / ADMex1  
-I do backend, and i like somethings related to Backend and Cybersecurity
+I Write codes for Backend system for either software/Web Applications, i also have passion on Cybersecurity field.
 ---
 ### I use go and php as programming language
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
