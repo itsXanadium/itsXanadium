@@ -12,8 +12,6 @@ I build **backend systems** for software and web applications. I also have a pas
 ### Current skillset
 
 * Backend Development
-* Network Engineering
-* Cybersecurity
-* Web Security
+* Network Engineering && Web Security
 
 > **Off on weekends.**
